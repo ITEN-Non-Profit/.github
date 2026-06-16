@@ -10,7 +10,20 @@
 
 ---
 
-## 📖 About Us
+## Table of Contents
+
+1. [📖 About Us](#1-about-us)
+   - 1.1 [Our Mission](#11-our-mission)
+2. [🎯 What We Do](#2-what-we-do)
+3. [🏗️ Our Projects](#3-our-projects)
+4. [🤝 Get Involved](#4-get-involved)
+5. [📬 Connect With Us](#5-connect-with-us)
+6. [📊 Stats](#6-stats)
+7. [🙏 Thank You](#7-thank-you)
+
+---
+
+## 1. 📖 About Us
 
 ITEN Non-Profit is dedicated to providing accessible technology education and resources to underserved communities. We believe that everyone deserves access to quality learning opportunities in the digital age.
 
@@ -29,7 +42,7 @@ ITEN Non-Profit is dedicated to providing accessible technology education and re
 
 </div>
 
-### Our Mission
+### 1.1 Our Mission
 - 🎓 Provide free technology education
 - 💻 Offer open-source development resources
 - 🌐 Connect learners with mentors worldwide
@@ -37,7 +50,7 @@ ITEN Non-Profit is dedicated to providing accessible technology education and re
 
 ---
 
-## 🎯 What We Do
+## 2. 🎯 What We Do
 
 | Initiative | Description |
 |------------|-------------|
@@ -48,14 +61,14 @@ ITEN Non-Profit is dedicated to providing accessible technology education and re
 
 ---
 
-## 🏗️ Our Projects
+## 3. 🏗️ Our Projects
 
 Explore our repositories to see what we're building:
 - [Check out our projects](https://github.com/ITEN-Non-Profit?tab=repositories)
 
 ---
 
-## 🤝 Get Involved
+## 4. 🤝 Get Involved
 
 We welcome contributors! Here's how you can help:
 
@@ -66,7 +79,7 @@ We welcome contributors! Here's how you can help:
 
 ---
 
-## 📬 Connect With Us
+## 5. 📬 Connect With Us
 
 <p align="left">
   <a href="https://iteducationnepal.org/" target="_blank">
@@ -102,7 +115,7 @@ We welcome contributors! Here's how you can help:
 
 ---
 
-## 📊 Stats
+## 6. 📊 Stats
 
 - 🌟 **Active Contributors**: Join our community
 - 📦 **Open Projects**: Multiple ongoing initiatives
@@ -111,7 +124,7 @@ We welcome contributors! Here's how you can help:
 
 ---
 
-## 🙏 Thank You
+## 7. 🙏 Thank You
 
 Thank you for visiting our profile! We're grateful for our community members, contributors, and supporters who make ITEN Non-Profit possible.
 
