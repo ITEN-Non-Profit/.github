@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ITEN-Non-Profit&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+</div>
+
+---
+---
 
 
 <div align="center">
@@ -27,12 +35,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ITEN-Non-Profit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
-</div>
 
 ---
 
